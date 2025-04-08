@@ -3,7 +3,7 @@ layout: default
 title: "A" type
 ---
 
-<img src="_layouts/A.png" alt="Placeholder Image" />
+<img src="_layouts/A.png" alt="A" width="300">
 
 <br />
 
