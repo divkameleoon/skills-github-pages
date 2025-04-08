@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "A" type
+title: My Jekyll Page
 ---
 
-<img src="/_layouts/A.png" alt="A" width="300">
+<img src="https://via.placeholder.com/300" alt="Placeholder Image" />
 
 <br />
 
-<button onclick="alert('Кнопка A нажата!')">Жми A!</button>
+<button onclick="alert('Кнопка нажата!')">Нажми меня</button>
